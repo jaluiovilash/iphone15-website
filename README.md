@@ -62,7 +62,7 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/jaluiovilash/iphone-website.git
+git clone https://github.com/jaluiovilash/iphone15-website.git
 cd iphone-website
 ```
 
