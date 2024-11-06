@@ -63,7 +63,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/jaluiovilash/iphone15-website.git
-cd iphone-website
+cd iphone15-website
 ```
 
 ### Installation
